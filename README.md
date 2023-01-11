@@ -28,4 +28,4 @@ The left panel is the code to use metaplex via Keypair.
 The right panel is the code to use metaplex via the plugin wallet.
 
 
-This example code includes issuing a collection through Metaplex, creating Candy Machine v3, minting nft, creating an auction house, listing on an auction house, and buying on an auction house.
+This example code includes issuing a collection, creating Candy Machine v3, minting nft, creating an auction house, listing on an auction house, and buying on an auction house through Metaplex.
